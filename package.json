@@ -15,11 +15,16 @@
     "@mui/icons-material": "^5.14.7",
     "@mui/material": "^5.14.7",
     "@mui/styled-engine-sc": "^5.14.7",
+    "@uidotdev/usehooks": "^2.2.0",
     "eslint": "8.48.0",
     "eslint-config-next": "13.4.19",
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-inlinesvg": "^4.0.3",
+    "react-magic-slider-dots": "^1.2.2",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.11",
     "typeface-roboto": "^1.1.13"
   }

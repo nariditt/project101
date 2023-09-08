@@ -46,7 +46,6 @@ export default function Index() {
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
-    dotsClass: styles.button__bar,
     appendDots: (dots) => {
       return <MagicSliderDots dots={dots} numDotsToShow={3} dotWidth={30} />;
     },
